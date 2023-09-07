@@ -1,7 +1,7 @@
 olá,tudo bem
 <<<<<<< primeiro_arquivo_novo
 
-Fala galerinha meu meu teste
+Fala galerinha meu meu teste teste
 =======
 Capaz, Merece!
 Hoje não tem mijado!
