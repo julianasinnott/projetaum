@@ -1,3 +1,9 @@
 olá,tudo bem
+<<<<<<< primeiro_arquivo_novo
 
 Fala galerinha
+=======
+Capaz, Merece!
+Hoje não tem mijado!
+Abraços Babbi Aponi
+>>>>>>> master
